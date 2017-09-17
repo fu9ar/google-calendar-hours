@@ -1,0 +1,8 @@
+title: Google-calendar-hours
+description: Calculates hours for selected calendar for selected range.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
